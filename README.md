@@ -16,7 +16,8 @@ Steps to upscale a video:
    
    Part3: Without face Enhancing and Outscaled by 4
 
-Wanted to try more multiple combinations for best results but GPU utilization exceeded on Colab.
+   Wanted to try more multiple combinations for best results but GPU utilization exceeded on Colab.
+
 8. Copied all the enhanced frames from 3 diffrent locations and pasted into a single folder to merge all the frames into a video.
 9. Merged all the frames to form a video with upscaled frames keeping in mind about the sequence of the frames.
 10. Also created another video with audio by copying audio from input and pasting it in the upscaled output.
